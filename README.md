@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imichelletorres
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on an ongoing project.
 - 📫 How to reach me? Instagram: imichelletorres
 - Currently working on a Personal Project.
